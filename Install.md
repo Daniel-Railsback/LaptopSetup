@@ -69,7 +69,7 @@ winget install -e --id Microsoft.DotNet.SDK.7
 winget install -e --id Microsoft.DotNet.Runtime.7
 
 # Install SSMS
-winget install -e --id Microsoft.Azure.StorageExplorer
+winget install -e --id Microsoft.SQLServerManagementStudio
 
 #Install Nord
 winget install -e --id NordVPN.NordVPN

@@ -126,3 +126,11 @@ Add some more stuff here :)
     fsc        .'.eeeeeeeeeeeeeeeeeeeeee.'.         
               :____________________________:
 ```
+
+
+
+#### Tech Debt to add here:
+- Vim
+- Lazyvim
+- MobaXterm
+- qdxnas01 mount

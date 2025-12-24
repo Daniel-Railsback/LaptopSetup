@@ -12,6 +12,7 @@
 - **Git** - WinGet
 - **GitHub Desktop** - WinGet
 - **Obsidian** - WinGet
+- **OhMyPosh** - Winget
 - **Discord** - WinGet
 - **Teams** - WinGet
 - **GreenShot** - WinGet
@@ -46,6 +47,9 @@ winget install -e --id Git.Git
 
 # Obsidian
 winget install -e --id Obsidian.Obsidian
+
+# Oh My Posh
+winget install JanDeDobbeleer.OhMyPosh --source winget
 
 # Discord
 winget install -e --id Discord.Discord
